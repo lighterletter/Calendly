@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#99e1ca</color>
+    <color name="colorPrimaryDark">#4b4d59</color>
+    <color name="colorAccent">#408cff</color>
+    <color name="list_item_text">#333cff</color>
+
+    <color name="chrono_time">#252943</color>
+
+    <color name="chrono_time_toolbar">#252943</color>
+    <color name="chrono_time_fab">#f7353951</color>
+</resources>
